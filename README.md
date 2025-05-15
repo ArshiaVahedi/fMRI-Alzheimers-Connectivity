@@ -23,7 +23,7 @@ A Python project simulating fMRI BOLD signals to study brain connectivity in nor
 - NetworkX
 
 ## Relevance
-This project highlights my skills in Python, neuroimaging simulation, and neuroscience, aligning with my research in Alzheimer’s, proprioception, and connectivity analysis via EEG/fMRI.
+...
 
 ## Author
-Dr. Arshia Vahedi, neuroscience researcher, Iran.
+Dr. Arshia Vahedi, neuroscience researcher, ONNRC.
